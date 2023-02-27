@@ -1,5 +1,5 @@
-# Form-Login-And-Register
-✌✨
+# Fancy-Login-And-Register-Form
+
 ## Project setup
 ```
 npm install
